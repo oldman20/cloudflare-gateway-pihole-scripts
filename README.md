@@ -101,6 +101,9 @@ MIT License. See `LICENSE` for more information.
 If you would like to donate to support this project, you can do so via Liberapay - click the Sponsor button or see my GitHub profile for the link.
 
 ## 
+Kiểm tra hiệu năng IP thì dùng tool GRC, trước khi run click chuột phải chọn test DNSSEC nữa https://www.grc.com/dns/benchmark.htm
+Còn kiểm tra hiệu nặng DoH thì gắn DoH vào trình duyệt Chrome/Edge (đừng xài Firefox, phân giải Firefox chậm hơn nhiều), rồi vào https://dnscheck.tools chờ chạy tới cuối bài test sẽ hiện thời gian ở góc trái phía dưới
+
 Đây cơ mà trang này test lấy thông tin về dịch vụ (ECS, thuật toán mã hóa, giao thức kết nối...) là chính chứ test tốc độ không đáng tin cậy, bởi nó làm gì có CDN ở mọi quốc gia mà test tốc độ chuẩn chỉ đơn giản là ping một cái IP của một quốc gia nào đấy: [dnscheck.tools](https://dnscheck.tools)
 
 Còn test tốc độ thì cứ ping các trang có CDN VN như Tốc Tốc, Akamai, Shopee.. nếu máy chủ ra ở VN là ngon.
