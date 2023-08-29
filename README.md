@@ -113,7 +113,7 @@ Còn test tốc độ thì cứ ping các trang có CDN VN như Tốc Tốc, Aka
 ## Check server:
 [1.1.1.1](https://1.1.1.1/help)
 
-## Chặn hoặc allow một domain cụ thể:
+## Chặn hoặc allow một domain cụ thể
 [Video Guide](https://streamable.com/5cz7wd)
 
 [Post voz](https://voz.vn/t/huong-dan-dung-cloudflare-zero-trust.822971/post-27071761)
