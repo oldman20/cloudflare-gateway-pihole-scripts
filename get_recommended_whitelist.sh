@@ -38,7 +38,7 @@ urls=(
     https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/android.txt
     https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/sensitive.txt
     https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/firefox.txt
-    # White list for click link tracking, Shopee link aff
+    # White list for click link tracking, Shopee link aff (Whitelist of nextdns)
     https://raw.githubusercontent.com/nextdns/click-tracking-domains/main/domains
 )
 
