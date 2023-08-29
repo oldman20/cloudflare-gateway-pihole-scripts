@@ -120,7 +120,10 @@ Còn test tốc độ thì cứ ping các trang có CDN VN như Tốc Tốc, Aka
 
 ## Add Private DNS to Android TV:
 
+[https://one.dash.cloudflare.com](https://one.dash.cloudflare.com)
+
 [https://my.nextdns.io](https://my.nextdns.io)
+
 Copy full DoT address next to DNS-over-TLS/QUIC
 
 ```
