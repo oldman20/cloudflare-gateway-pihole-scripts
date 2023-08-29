@@ -19,7 +19,7 @@ urls=(
     https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/optional-list.txt
     https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/issues.txt
     https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist-referral.txt
-    https://raw.githubusercontent.com/mawenjian/china-cdn-domain-whitelist/master/china-cdn-domain-whitelist.txt
+    # https://raw.githubusercontent.com/mawenjian/china-cdn-domain-whitelist/master/china-cdn-domain-whitelist.txt
     https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/hostnames.whitelist.txt
     https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/mac.txt
     https://raw.githubusercontent.com/boutetnico/url-shorteners/master/list.txt
