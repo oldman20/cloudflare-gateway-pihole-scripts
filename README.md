@@ -104,3 +104,10 @@ If you would like to donate to support this project, you can do so via Liberapay
 Đây cơ mà trang này test lấy thông tin về dịch vụ (ECS, thuật toán mã hóa, giao thức kết nối...) là chính chứ test tốc độ không đáng tin cậy, bởi nó làm gì có CDN ở mọi quốc gia mà test tốc độ chuẩn chỉ đơn giản là ping một cái IP của một quốc gia nào đấy: [dnscheck.tools](https://dnscheck.tools)
 
 Còn test tốc độ thì cứ ping các trang có CDN VN như Tốc Tốc, Akamai, Shopee.. nếu máy chủ ra ở VN là ngon.
+
+## Check server:
+[1.1.1.1](https://1.1.1.1/help)
+
+## Chặn hoặc allow một domain cụ thể:
+[Video Guide](https://streamable.com/5cz7wd)
+
