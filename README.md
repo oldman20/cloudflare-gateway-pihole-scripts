@@ -129,9 +129,15 @@ Copy full DoT address next to DNS-over-TLS/QUIC
 ```
 adb shell 
 settings put global private_dns_mode hostname
-settings put global private_dns_specifier FireTV--StickHD-YOUR-ID.dns.nextdns.io 
-settings put global private_dns_specifier YOUR_ID.cloudflare-gateway.com
 ```
+
+Then use this:
+
+`settings put global private_dns_specifier FireTV--StickHD-YOUR-ID.dns.nextdns.io`
+
+Or this:
+
+`settings put global private_dns_specifier YOUR_ID.cloudflare-gateway.com`
 
 Disable Private DNS: 
 
