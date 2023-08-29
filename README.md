@@ -102,7 +102,8 @@ If you would like to donate to support this project, you can do so via Liberapay
 
 ## Kiểm tra hiệu năng IP:
 
-Dùng tool GRC, trước khi run click chuột phải chọn test DNSSEC nữa https://www.grc.com/dns/benchmark.htm
+Dùng tool [GRC](https://www.grc.com/dns/benchmark.htm) trước khi run click chuột phải chọn test DNSSEC nữa.
+
 Còn kiểm tra hiệu năng DoH thì gắn DoH vào trình duyệt Chrome/Edge (đừng xài Firefox, phân giải Firefox chậm hơn nhiều), rồi vào [dnscheck.tools](https://dnscheck.tools) chờ chạy tới cuối bài test sẽ hiện thời gian ở góc trái phía dưới
 
 Tang này test lấy thông tin về dịch vụ (ECS, thuật toán mã hóa, giao thức kết nối...) là chính chứ test tốc độ không đáng tin cậy, bởi nó làm gì có CDN ở mọi quốc gia mà test tốc độ chuẩn chỉ đơn giản là ping một cái IP của một quốc gia nào đấy
