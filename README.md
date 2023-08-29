@@ -120,15 +120,19 @@ Còn test tốc độ thì cứ ping các trang có CDN VN như Tốc Tốc, Aka
 
 ## Add Private DNS to Android TV:
 
-https://my.nextdns.io 
+[https://my.nextdns.io](https://my.nextdns.io)
 Copy full DoT address next to DNS-over-TLS/QUIC
 
-'adb shell 
-settings put global private_dns_mode hostname settings put global private_dns_specifier FireTV--StickHD-YOUR-ID.dns.nextdns.io 
-settings put global private_dns_specifier YOUR_ID.cloudflare-gateway.com'
+```
+adb shell 
+settings put global private_dns_mode hostname
+settings put global private_dns_specifier FireTV--StickHD-YOUR-ID.dns.nextdns.io 
+settings put global private_dns_specifier YOUR_ID.cloudflare-gateway.com
+```
 
 Disable Private DNS: 
-'settings put global private_dns_mode off'
+
+`settings put global private_dns_mode off`
 
 ## Test adblock:
 [https://d3ward.github.io/toolz/adblock.html](https://d3ward.github.io/toolz/adblock.html)
