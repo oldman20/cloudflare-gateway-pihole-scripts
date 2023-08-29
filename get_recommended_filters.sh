@@ -4,7 +4,7 @@
 touch input.csv
 
 # declare an array of urls
-urls=
+urls=(
   https://adaway.org/hosts.txt
   https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
   https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/domain.txt
