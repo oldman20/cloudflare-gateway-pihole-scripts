@@ -111,3 +111,5 @@ Còn test tốc độ thì cứ ping các trang có CDN VN như Tốc Tốc, Aka
 ## Chặn hoặc allow một domain cụ thể:
 [Video Guide](https://streamable.com/5cz7wd)
 
+## Test adblock:
+[https://d3ward.github.io/toolz/adblock.html](https://d3ward.github.io/toolz/adblock.html)
