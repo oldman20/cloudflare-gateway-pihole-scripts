@@ -5,10 +5,11 @@ touch input.csv
 
 # declare an array of urls
 urls=(
+  https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
+  https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
+  https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/domain.txt
   https://adaway.org/hosts.txt
   https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-  https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/domain.txt
-  https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
   https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
   https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/multi.txt
   https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt
